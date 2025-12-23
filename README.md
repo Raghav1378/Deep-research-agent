@@ -2,7 +2,7 @@
 
 **An autonomous research assistant that browses the web, synthesizes data, and provides answers with inline citations.**
 
-![App Screenshot](assets/screenshot.png) 
+![App Screenshot](brave_screenshot.png) 
 *(Note: Take a screenshot of your app and put it in an 'assets' folder, or delete this line)*
 
 ## 🚀 Key Features
@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 * **Orchestration:** LangGraph & LangChain
-* **LLM:** Google Gemini 1.5 Flash
+* **LLM:** Google Gemini 2.5 Flash
 * **Search Engine:** Tavily AI
 * **Frontend:** Streamlit
 
@@ -26,7 +26,7 @@
 ## 📦 Setup & Installation
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/yourusername/research-agent.git](https://github.com/yourusername/research-agent.git)
+    git clone https://github.com/Raghav1378/research-agent.git
     ```
 2.  Install dependencies:
     ```bash
