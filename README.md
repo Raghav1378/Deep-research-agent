@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 * **Orchestration:** LangGraph & LangChain
-* **LLM:** Google Gemini 1.5 Flash
+* **LLM:** Google Gemini 2.5 Flash
 * **Search Engine:** Tavily AI
 * **Frontend:** Streamlit
 
