@@ -44,5 +44,4 @@
 ---
 
 ### Option 2: Try it Live
-Check out the live demo here: **[Link to your Streamlit App]**
-*(Replace this with your actual shared link once deployed)*
+Check out the live demo here: **[https://insight-agent-ai.streamlit.app/](https://insight-agent-ai.streamlit.app/)**
