@@ -2,8 +2,6 @@
 
 **An autonomous research assistant that browses the web, synthesizes data, and provides answers with inline citations.**
 
-![App Screenshot](brave_screenshot.png) 
-*(Note: Take a screenshot of your app and put it in an 'assets' folder, or delete this line)*
 
 ## 🚀 Key Features
 * **Multi-Step Reasoning:** Uses `LangGraph` to plan research steps rather than just answering blindly.
