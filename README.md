@@ -25,7 +25,12 @@
 
 ## 📦 Setup & Installation
 
-### Option 1: Run Locally
+### Option 1: Try it Live 🟢
+Check out the live demo here: **[https://insight-agent-ai.streamlit.app/](https://insight-agent-ai.streamlit.app/)**
+
+---
+
+### Option 2: Run Locally 💻
 1.  **Clone the repo:**
     ```bash
     git clone [https://github.com/Raghav1378/deep-research-agent.git](https://github.com/Raghav1378/deep-research-agent.git)
@@ -40,8 +45,3 @@
     streamlit run app.py
     ```
 4.  **Enter API Keys:** The app will launch in your browser. Enter your **Google API Key** and **Tavily API Key** in the sidebar to start researching.
-
----
-
-### Option 2: Try it Live
-Check out the live demo here: **[https://insight-agent-ai.streamlit.app/](https://insight-agent-ai.streamlit.app/)**
